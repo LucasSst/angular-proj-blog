@@ -1,0 +1,11 @@
+@media only screen and (min-width: 1199.98px) {
+  .container__menu-title h1{
+    margin: 1rem 0px;
+    font-size: 9rem;
+  }
+
+  .container__menu-title hr{
+    margin: 1rem 0px 0.313rem 0;
+  }
+
+}

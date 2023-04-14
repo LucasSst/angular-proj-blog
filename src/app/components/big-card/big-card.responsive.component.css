@@ -1,0 +1,30 @@
+@media only screen and (min-width: 1199.98px) {
+  .container__big-card{
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 500px;
+    height: 600px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    justify-content: flex-start;
+  }
+
+
+  .big-card__figure img{
+    height:280px;
+    width: 100%;
+    min-width: 460px;
+  }
+
+  .big-card__title h1 {
+    margin: .2rem 0 0 0;
+    font-size: 1.2rem;
+    font-weight: bold;
+
+  }
+
+}
+

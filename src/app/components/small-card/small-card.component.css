@@ -1,15 +1,17 @@
 .container__small-card{
-  width: 700px;
+  width: 100%;
   margin-bottom: .825rem;
 }
 .container__small-card-content{
   display: flex;
+  justify-content: flex-start;
   flex-direction: row;
 }
 
 .small-card__figure > img{
   width: 200px;
   min-width: 200px;
+  height: 110px;
   margin-right: 1rem;
 }
 
@@ -17,6 +19,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: .5rem;
 }
 
 .container__small-card__separator{

@@ -1,0 +1,16 @@
+@media only screen and (min-width: 1199.98px) {
+  .container__articles{
+    margin: 30px 0 0 0;
+    flex-direction: row;
+  }
+
+  header{
+    margin: 1rem 0 0 0 ;
+  }
+
+}
+
+
+
+
+

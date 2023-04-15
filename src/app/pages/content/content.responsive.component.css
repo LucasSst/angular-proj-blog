@@ -1,0 +1,31 @@
+@media only screen and (min-width: 768px) {
+
+  .content__figure > img{
+    width: 500px;
+    min-width: 500px;
+    height: 300px;
+  }
+
+  .content__title{
+    width: 600px;
+
+
+  }
+
+  .content__title > h1{
+    font-size: 1.8rem;
+    text-align: center;
+    margin-bottom: .25rem;
+
+  }
+
+  .content__paragraph {
+    width: 500px;
+  }
+
+  .content__back {
+    width: 500px;
+  }
+
+}
+
